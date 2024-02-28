@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- Author: Mausam Gaikwad
+- Author: [Mausam Gaikwad](https://github.com/MausamGaikwad)
 
 
 ## Acknowledgements
