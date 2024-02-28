@@ -36,7 +36,7 @@ Ensure you have PostgreSQL installed and running. Run the provided SQL commands 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
